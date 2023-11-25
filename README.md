@@ -1,6 +1,6 @@
 # Desafio de Observabilidade 
 
-Solução para o Desafio de Observabilidade da O2B Academy. Neste repositório, você encontrará minha implementação prática para configurar um ambiente de observabilidade usando Prometheus e Grafana para monitorar uma aplicação de exemplo em Python.
+Solução para o Desafio de Observabilidade da O2B Academy. Neste repositório, você encontrará minha implementação prática para configurar um ambiente de observabilidade usando Prometheus, Grafana e Alertmanager para monitorar uma aplicação de exemplo em Python.
 
 ## Objetivo
 
